@@ -11,4 +11,4 @@ The game can be played online on [nandgame.com](http://nandgame.com/).
 ![Level Overview](img/%5B00%5D%20Level%20Overview.png)
 
 ## Solutions
-You can view all solutions embedded in the [solutions.md](solutions.md) markdown file.
+You can view all solutions embedded in the [Solutions.md](Solutions.md) markdown file.
