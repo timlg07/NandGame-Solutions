@@ -38,7 +38,7 @@ All solutions of the nandgame:
 
 ## 4 Memory
 ### 4.1 Latch
-_Missing_
+![Latch](img/%5B14%5D%20Latch.png)
 ### 4.2 Data Flip-Flop
 ![Data Flip-Flop](img/%5B15%5D%20Data%20Flip-Flop.png)
 ### 4.3 Register
