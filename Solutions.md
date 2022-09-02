@@ -17,7 +17,8 @@ All solutions of the nandgame:
 ![Half Adder](img/%5B05-a%5D%20Half%20Adder.png)
 ![Half Adder](img/%5B05-b%5D%20Half%20Adder.png)
 ### 2.2 Full Adder
-![Full Adder](img/%5B06%5D%20Full%20Adder.png)
+![Full Adder](img/%5B06-a%5D%20Full%20Adder.png)
+![Full Adder](img/%5B06-b%5D%20Full%20Adder.png)
 ### 2.3 Multi-bit Adder
 ![Multi-bit Adder](img/%5B07%5D%20Multi-bit%20Adder.png)
 ### 2.4 Increment
