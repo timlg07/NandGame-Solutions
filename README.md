@@ -8,7 +8,7 @@ Starting with a single component, the NAND gate, you will build a simple compute
 The game can be played online on [nandgame.com](http://nandgame.com/).
 
 ## Level Overview
-![Level Overview](img/%5B00%5D%20Level%20Overview.png)
+![Level Overview](img/%5B--%5D%20Level%20Overview.png)
 
 ## Solutions
 You can view all solutions embedded in the [Solutions.md](Solutions.md) markdown file.

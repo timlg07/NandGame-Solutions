@@ -2,6 +2,8 @@
 All solutions of the nandgame:
 
 ## 1 Logic Gates
+### 1.0 Nand
+![Nand](img/%5B00%5D%20Nand.png)
 ### 1.1 Invert
 ![Invert](img/%5B01%5D%20Invert.png)
 ### 1.2 And
